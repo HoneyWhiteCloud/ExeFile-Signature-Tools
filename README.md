@@ -31,10 +31,10 @@ The following tools must be present in the `tools` folder:
 
 These tools are part of the Windows SDK and can be downloaded from Microsoft's official website.
 
-## Installation
+## Usage
 
 1. Clone or download this repository
 2. Ensure all required tools are in the `tools` folder
 3. Run the script with Python:
    ```bash
-   python main.py
+   python gui.py
