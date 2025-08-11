@@ -36,5 +36,5 @@
 1. 克隆或下载此仓库
 2. 确保所有必需工具都在`tools`文件夹中
 3. 使用Python运行脚本：
-   ```terminal
+   ```bash
    python gui.py
