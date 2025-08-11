@@ -31,10 +31,10 @@
 
 这些工具是Windows SDK的一部分，可以从微软官方网站下载。
 
-## 安装说明
+## 使用说明
 
 1. 克隆或下载此仓库
 2. 确保所有必需工具都在`tools`文件夹中
 3. 使用Python运行脚本：
-   ```bash
-   python main.py
+   ```terminal
+   python gui.py
